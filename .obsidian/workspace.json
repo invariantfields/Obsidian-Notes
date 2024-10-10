@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5b76b6b77506e355",
@@ -148,6 +149,7 @@
   },
   "active": "95d3dd1b25c5df68",
   "lastOpenFiles": [
+    "Aleph0 week 41 Solution.pdf",
     "Aleph0 week 41 Solution.md"
   ]
 }
